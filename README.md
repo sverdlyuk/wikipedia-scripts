@@ -1,5 +1,4 @@
-<img width="264" height="49" alt="Знімок екрана 2026-11-13 о 10 44 51" src="https://github.com/user-attachments/assets/6caeef4a-026f-4abd-9d71-0fc4324b9457" />
-# wikipedia-scripts
+# Скрипти користувача Вікіпедії
 red-links.js — знаходить і пропонує замінити англомовні червоні посилання українськими відповідниками. Кнопка 🔧 Червоні → укр з'являється в редакторі коду
 
 <img width="1217" height="543" alt="2026-11-03_16 14 55" src="https://github.com/user-attachments/assets/25b337d2-b290-46fb-9163-f2d2d1fcc56b" />
@@ -11,6 +10,8 @@ refresh-interlanguage-links.js — оновлює кеш мовних версі
 
 
 <img width="270" height="86" alt="Знімок екрана 2026-11-13 о 10 37 11" src="https://github.com/user-attachments/assets/fdefd0fc-b95e-4d9c-b953-14ed2dd4eca0" />
+
+<img width="264" height="49" alt="Знімок екрана 2026-11-13 о 10 44 51" src="https://github.com/user-attachments/assets/6caeef4a-026f-4abd-9d71-0fc4324b9457" />
 
 
 Для встановлення потрібно додати скрипт на сторінку користувача `https://uk.wikipedia.org/wiki/Користувач:XXXXX/common.js`
