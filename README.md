@@ -9,9 +9,10 @@ refresh-interlanguage-links.js — оновлює кеш мовних версі
 <img width="437" height="698" alt="Знімок екрана 2026-11-13 о 10 42 48" src="https://github.com/user-attachments/assets/7a8a8b16-8975-4e47-bcc0-a4ff91991332" />
 
 
-<img width="270" height="86" alt="Знімок екрана 2026-11-13 о 10 37 11" src="https://github.com/user-attachments/assets/fdefd0fc-b95e-4d9c-b953-14ed2dd4eca0" />
 
 <img width="264" height="49" alt="Знімок екрана 2026-11-13 о 10 44 51" src="https://github.com/user-attachments/assets/6caeef4a-026f-4abd-9d71-0fc4324b9457" />
+
+<img width="270" height="86" alt="Знімок екрана 2026-11-13 о 10 37 11" src="https://github.com/user-attachments/assets/fdefd0fc-b95e-4d9c-b953-14ed2dd4eca0" />
 
 
 Для встановлення потрібно додати скрипт на сторінку користувача `https://uk.wikipedia.org/wiki/Користувач:XXXXX/common.js`
