@@ -1,3 +1,4 @@
+<img width="264" height="49" alt="Знімок екрана 2026-11-13 о 10 44 51" src="https://github.com/user-attachments/assets/6caeef4a-026f-4abd-9d71-0fc4324b9457" />
 # wikipedia-scripts
 red-links.js — знаходить і пропонує замінити англомовні червоні посилання українськими відповідниками. Кнопка 🔧 Червоні → укр з'являється в редакторі коду
 
