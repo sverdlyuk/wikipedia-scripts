@@ -1,4 +1,4 @@
-# Скрипти користувача Вікіпедії
+# Користувацькі скрипти Вікіпедії
 [red-links.js](https://github.com/sverdlyuk/wikipedia-scripts/blob/main/red-links-ua.js) — знаходить і пропонує замінити англомовні червоні посилання українськими відповідниками. Кнопка 🔧 Червоні → укр з'являється в редакторі коду
 
 <img width="1217" height="543" alt="2026-11-03_16 14 55" src="https://github.com/user-attachments/assets/25b337d2-b290-46fb-9163-f2d2d1fcc56b" />
